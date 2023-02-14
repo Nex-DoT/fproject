@@ -31,7 +31,7 @@ function App() {
                   <img src={avatar} alt={login}/>
                   <div>
                     <h3>{login}</h3>
-                    <a href={html}></a>
+                    <a href={html}>profile in github</a>
                   </div>
                  </li>
                ) 
